@@ -2,9 +2,9 @@
 This project demonstrates building a Node.js backend with MongoDB for a hospital API. Doctors can register patients, create reports with statuses (Negative, Travelled-Quarantine, etc.), and manage patient data.
 
 ## Live Demo
-Hosted Link: http://hospitalapi.shanmukhdev.online
-Video Link: https://www.youtube.com/watch?v=7WjcOlrsP1U
-GitHub Repo: https://github.com/ShanmukhPulijala16/HospitalAPI
+1. Hosted Link: http://hospitalapi.shanmukhdev.online
+2. Video Link: https://www.youtube.com/watch?v=7WjcOlrsP1U
+3. GitHub Repo: https://github.com/ShanmukhPulijala16/HospitalAPI
 
 ### Features
 User Types: Doctors and Patients
