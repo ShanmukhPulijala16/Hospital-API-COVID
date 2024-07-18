@@ -3,12 +3,10 @@ This project demonstrates building a Node.js backend with MongoDB for a hospital
 
 ## Live Demo
 Hosted Link: http://hospitalapi.shanmukhdev.online
-Video Walkthrough: Hospital API | Coding Ninjas Skill Test
+Video Link: https://www.youtube.com/watch?v=7WjcOlrsP1U
+GitHub Repo: https://github.com/ShanmukhPulijala16/HospitalAPI
 
-Project Links
-GitHub Repository: https://github.com/ShanmukhPulijala16/HospitalAPI
-
-Features
+### Features
 User Types: Doctors and Patients
 Authentication: Secure JWT-based login for doctors
 Patient Management:
@@ -22,7 +20,7 @@ Positive-Admit: Requires hospitalization.
 Secure Access
 JWT authentication ensures secure access for doctors.
 
-API Endpoints
+#### API Endpoints
 Doctors:
 POST /doctors/register: Register a new doctor.
 POST /doctors/login: Login for doctors, returning a JWT for secure access to other endpoints.
