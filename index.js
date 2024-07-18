@@ -16,7 +16,7 @@ app.use(cookieParser());
 
 app.use('/', routes);
 
-const PORT = 3000;
+const PORT = process.env.PORT || 5001;
 connectDB().then(() => {
     app.listen(PORT, () => {
         console.log(`Server is listening on ${PORT}`);
