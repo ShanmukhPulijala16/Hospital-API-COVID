@@ -1,7 +1,7 @@
 # Hospital API for Doctors (COVID-19) with Node.js & MongoDB
 This project demonstrates building a Node.js backend with MongoDB for a hospital API. Doctors can register patients, create reports with statuses (Negative, Travelled-Quarantine, etc.), and manage patient data.
 
-Live Demo
+## Live Demo
 Hosted Link: http://hospitalapi.shanmukhdev.online
 Video Walkthrough: Hospital API | Coding Ninjas Skill Test
 
